@@ -1,0 +1,56 @@
+
+9552671595
+
+Maven
+=============
+maven build/project mangement tool
+
+Maven Project Execution
+=========================
+1. using pom.xml
+2.using CLI
+=============
+download maven on local machine
+https://maven.apache.org/download.cgi
+
+3.using jenkins
+
+setup
+============
+1.Plugins
+========
+1.compiler plugin
+https://maven.apache.org/plugins/maven-compiler-plugin/
+2.SurefirePlugin
+https://maven.apache.org/surefire/maven-surefire-plugin/
+
+2.Goals to execute maven
+===========================
+Goals (Actions)
+
+1.clean
+=============
+To delete reports from targer folder
+
+2.test
+=============
+To test project 
+
+3.install
+==============
+installatio of required files + test
+
+https://maven.apache.org/guides/index.html
+
+
+
+
+
+
+
+
+
+
+
+
+
