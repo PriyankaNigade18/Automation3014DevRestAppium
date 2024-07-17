@@ -1,6 +1,0 @@
-com\CRM\Pages\HomePage.class
-com\CRM\TestCase\HomePageTestCase.class
-com\CRM\TestCase\BaseClass.class
-com\CRM\TestCase\LoginPageTestCase.class
-com\CRM\Pages\LoginPage.class
-com\CRM\TestCase\AsserttionTest.class
