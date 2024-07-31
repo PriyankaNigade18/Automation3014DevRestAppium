@@ -1,0 +1,130 @@
+https://www.simplilearn.com/enable-virtualization-windows-10-article
+
+
+Step1: Install nodejs
+https://nodejs.org/en/download
+
+Commands
+--------------
+1.To check node is installed?
+	node -v
+
+2. To check npm version
+	npm -v
+
+Step2: Install Appium server
+	npm install -g appium
+	
+To check location
+	where Appium
+
+To uninstall Appium
+npm uninstall -g Appium
+
+To start appium server
+	appium
+To stop/quit server
+	ctrl+c
+
+
+To check driver list
+	appium driver list
+
+To install Appium driver
+	appium driver install uiautomator2
+
+
+Step3: Install Appium Inspector
+https://github.com/appium/appium-inspector
+
+Step4: Install Android Studio
+https://developer.android.com/studio
+
+Step5: Java & Android variable setup
+Andriod Home C:\Users\Ganes\AppData\Local\Android\Sdk
+
+%ANDROID_HOME%\platform-tools
+%ANDROID_HOME%\tools
+%ANDROID_HOME%\tools\bin
+===========================================================================
+
+Apk(Android application package)
+==================================
+
+Apk file is installer for android 
+
+
+AVD(Android virtual Device)
+SDK(Software Development kit)
+===================================
+
+ADB
+===================
+ADB (Android Debug Bridge) is a versatile command-line tool that comes with the Android SDK. 
+It allows you to communicate with and control Android devices or emulators connected to your computer. 
+
+To check connected devices
+===========================
+adb devices
+
+UDID
+===========
+unique device identifier
+
+In Mac : for devices-IOS Simulators
+
+=====================
+xcrun simctl list
+
+appium Link
+==============
+https://appium.io/docs/en/2.4/
+
+Installation Issue
+====================
+https://developer.android.com/studio/run/emulator-acceleration
+
+
+Some Solutions
+=========================
+
+For AMD Processor
+=================
+1. We have to restart
+2. While PC is restarting, we have to press F2 continuously.. BIOS mode will appear
+3. We have to go to Advanced mode
+4. Then click on Advanced 
+5. Enable SVM mode and set UMA frame buffer size to Auto
+6. Exit Ez mode
+7. Finally Save and Exit 
+8. System will restart and you will be able to run the Android studio without error
+
+For Intel Processor
+======================
+https://github.com/intel/haxm/releases
+
+download latest version HAXM and install it 
+
+
+ https://github.com/intel/haxm/wiki/Installation-Instructions-on-Windows
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
