@@ -18,7 +18,8 @@ public class DriverSessionWithAppPackageNameAppActivityName {
 	  	options.setPlatformName("Android");
 	  	options.setCapability("appium:appPackage","com.android.deskclock");
 	  	options.setCapability("appium:appActivity","com.android.deskclock.DeskClock");
-	  	
+	  
+	  	//io.appium.android.apis
 	  	//Server address
 	  	URL url=new URL("http://0.0.0.0:4723");
 	  	

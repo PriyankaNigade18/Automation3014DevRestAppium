@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-08-02T22:14:34 IST" name="Default suite" finished-at="2024-08-02T22:14:57 IST" duration-ms="22868">
+  <suite started-at="2024-08-06T21:47:51 IST" name="Default suite" finished-at="2024-08-06T21:48:24 IST" duration-ms="32330">
     <groups>
     </groups>
-    <test started-at="2024-08-02T22:14:34 IST" name="Default test" finished-at="2024-08-02T22:14:57 IST" duration-ms="22868">
-      <class name="mobileElementsScenarios.ScrollGesture">
-        <test-method signature="scrollTest()[pri:0, instance:mobileElementsScenarios.ScrollGesture@5acf93bb]" started-at="2024-08-02T22:14:34 IST" name="scrollTest" finished-at="2024-08-02T22:14:57 IST" duration-ms="22792" status="PASS">
+    <test started-at="2024-08-06T21:47:51 IST" name="Default test" finished-at="2024-08-06T21:48:24 IST" duration-ms="32330">
+      <class name="appiumScenarios.WorkingWithApplictaion">
+        <test-method signature="testApp()[pri:0, instance:appiumScenarios.WorkingWithApplictaion@5acf93bb]" started-at="2024-08-06T21:47:52 IST" name="testApp" finished-at="2024-08-06T21:48:24 IST" duration-ms="32226" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- scrollTest -->
-      </class> <!-- mobileElementsScenarios.ScrollGesture -->
+        </test-method> <!-- testApp -->
+      </class> <!-- appiumScenarios.WorkingWithApplictaion -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
