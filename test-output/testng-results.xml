@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-08-06T21:47:51 IST" name="Default suite" finished-at="2024-08-06T21:48:24 IST" duration-ms="32330">
+  <suite started-at="2024-08-06T22:04:39 IST" name="Default suite" finished-at="2024-08-06T22:04:54 IST" duration-ms="14645">
     <groups>
     </groups>
-    <test started-at="2024-08-06T21:47:51 IST" name="Default test" finished-at="2024-08-06T21:48:24 IST" duration-ms="32330">
-      <class name="appiumScenarios.WorkingWithApplictaion">
-        <test-method signature="testApp()[pri:0, instance:appiumScenarios.WorkingWithApplictaion@5acf93bb]" started-at="2024-08-06T21:47:52 IST" name="testApp" finished-at="2024-08-06T21:48:24 IST" duration-ms="32226" status="PASS">
+    <test started-at="2024-08-06T22:04:39 IST" name="Default test" finished-at="2024-08-06T22:04:54 IST" duration-ms="14645">
+      <class name="appiumScenarios.Lock_Unlock_Rotate">
+        <test-method signature="testDeviceFunctions()[pri:0, instance:appiumScenarios.Lock_Unlock_Rotate@1a18644]" started-at="2024-08-06T22:04:39 IST" name="testDeviceFunctions" finished-at="2024-08-06T22:04:54 IST" duration-ms="14566" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testApp -->
-      </class> <!-- appiumScenarios.WorkingWithApplictaion -->
+        </test-method> <!-- testDeviceFunctions -->
+      </class> <!-- appiumScenarios.Lock_Unlock_Rotate -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
